@@ -1,0 +1,11 @@
+from tensorflow.keras.datasets import mnist
+(x_train, y_train), (x_test, y_test) = mnist.load_data()
+print("x_train:",x_train/255.0)
+print("y_train:",y_train.shape)
+print("x_test:",x_test/255.0)
+print("y_test:",y_test.shape)
+# print(x_train.nun_examples)
+# x_train: (60000, 28, 28)
+# y_train: (60000,)
+# x_test: (10000, 28, 28)
+# y_test: (10000,)
