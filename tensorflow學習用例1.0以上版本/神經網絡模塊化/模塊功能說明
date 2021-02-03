@@ -1,0 +1,3 @@
+生成數據集 generateds.py
+前向傳播 forward.py
+反向傳播 backward.py
