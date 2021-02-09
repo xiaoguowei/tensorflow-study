@@ -1,0 +1,12 @@
+用CNN實現離散數據的分類(以圖像分類為例)
+1.卷積計算過程
+2.感受野
+3.全零填充(Padding)
+4.TF描述卷積計算層
+5.批標準化(Batch Normalization, BN)
+6.池化(Pooling)
+7.捨棄(Dropout)
+8.卷積神經網絡
+9.cifar10數據集
+10.卷積神經網絡搭建實示例
+11.實現LeNet,AlexNet,VGGNet,InceptionNet,ResNet 五個經典卷積網絡
