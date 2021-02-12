@@ -1,0 +1,16 @@
+用RNN實現連續數據的預測(以股票預測為例)
+循環神經網絡學習步驟
+1.循環核
+2.循環核時間步展開
+3.循環計算層
+4.TF描述循環計算層
+5.循環計算過程
+
+實踐: ABCDE字母預測
+1.One-hot
+2.Embedding
+
+實踐: 股票預測
+1.RNN
+2.LSTM
+3.GRU
